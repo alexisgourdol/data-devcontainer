@@ -22,6 +22,8 @@ Credits to :
 
 - Docker-based development environment
 - Python with Duck DB pre-installed
+- Includes mypy and pytest
+- You can consider adding other dependencies e.g. `google-cloud-bigquery`, `google-auth`, `pydantic`, `google-cloud-bigquery-storage`
 - Easy setup and configuration
 
 ## Prerequisites
