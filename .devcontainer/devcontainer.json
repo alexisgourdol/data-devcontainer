@@ -8,13 +8,11 @@
             "PLATFORM": "arm64"
         }
     },
-    "postCreateCommand": "uv sync",
+    "postCreateCommand": "uv add pip",
     "remoteUser": "root",
     "customizations": {
         "vscode": {
             "extensions": [
-                //"GitHub.copilot",
-                //"GitHub.copilot-chat",
                 "ms-python.python",
                 "charliermarsh.ruff"
             ]
